@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.AllArgsConstructor;
+import one.digitalinnovation.personapi.domain.dto.request.PersonDTO;
+import one.digitalinnovation.personapi.domain.dto.response.MessageResponseDTO;
 import one.digitalinnovation.personapi.exception.PersonNotFoundException;
-import one.digitalinnovation.personapi.model.dto.request.PersonDTO;
-import one.digitalinnovation.personapi.model.dto.response.MessageResponseDTO;
 import one.digitalinnovation.personapi.services.PersonService;
 
 @RestController

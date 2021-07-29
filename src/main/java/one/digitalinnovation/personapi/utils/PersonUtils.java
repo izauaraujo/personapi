@@ -4,8 +4,8 @@ package one.digitalinnovation.personapi.utils;
 import java.time.LocalDate;
 import java.util.Collections;
 
-import one.digitalinnovation.personapi.model.dto.request.PersonDTO;
-import one.digitalinnovation.personapi.model.entities.Person;
+import one.digitalinnovation.personapi.domain.dto.request.PersonDTO;
+import one.digitalinnovation.personapi.domain.entities.Person;
 
 public class PersonUtils {
 

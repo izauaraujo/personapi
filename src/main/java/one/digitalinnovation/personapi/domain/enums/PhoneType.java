@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.model.enums;
+package one.digitalinnovation.personapi.domain.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

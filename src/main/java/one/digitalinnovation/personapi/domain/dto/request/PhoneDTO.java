@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.model.dto.request;
+package one.digitalinnovation.personapi.domain.dto.request;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
@@ -9,7 +9,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.personapi.model.enums.PhoneType;
+import one.digitalinnovation.personapi.domain.enums.PhoneType;
 
 @Data
 @Builder

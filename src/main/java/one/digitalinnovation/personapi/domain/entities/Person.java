@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.model.entities;
+package one.digitalinnovation.personapi.domain.entities;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

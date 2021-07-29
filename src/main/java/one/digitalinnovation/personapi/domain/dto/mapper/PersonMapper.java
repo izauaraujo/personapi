@@ -1,10 +1,10 @@
-package one.digitalinnovation.personapi.model.dto.mapper;
+package one.digitalinnovation.personapi.domain.dto.mapper;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
-import one.digitalinnovation.personapi.model.dto.request.PersonDTO;
-import one.digitalinnovation.personapi.model.entities.Person;
+import one.digitalinnovation.personapi.domain.dto.request.PersonDTO;
+import one.digitalinnovation.personapi.domain.entities.Person;
 
 
 @Mapper(componentModel = "spring")

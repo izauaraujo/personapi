@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.model.entities;
+package one.digitalinnovation.personapi.domain.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -12,7 +12,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.personapi.model.enums.PhoneType;
+import one.digitalinnovation.personapi.domain.enums.PhoneType;
 
 
 @Entity
